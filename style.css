@@ -1,0 +1,16 @@
+body {
+    margin: 0;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    min-height: 100vh;
+} 
+#color {
+    background: darkmagenta;
+    color: rgb(185, 204, 222);
+    padding: 10px;
+    border-radius: 50px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    -moz-border-radius: 50%; 
+    -webkit-border-radius: 50%;
+}
